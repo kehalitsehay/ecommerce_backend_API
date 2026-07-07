@@ -123,10 +123,4 @@ Fulfillment microservice rows processing transaction completions down the assemb
 | `GET` | `/` | Compiles total amounts and lists mapped cart items | Private |
 | `POST` | `/` | Core Unified Upsert entry. Adjusts quantities safely | Private |
 
-### 💳 Financial Settlement Module (`/api/payment`)
-| Method | Endpoint | Description | Access |
-| :--- | :--- | :--- | :--- |
-| `POST` | `/checkout` | Generates a verified cryptographic Stripe redirect URL | Private |
-| `POST` | `/webhook` | Event processing endpoint for Stripe confirmations | Stripe Engine |
-
 ---
