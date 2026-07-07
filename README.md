@@ -1,6 +1,6 @@
 # 🛒 NexusStore Backend API
 
-A high-performance, production-ready full-stack e-commerce RESTful API engine built with **Node.js**, **Express**, and **PostgreSQL**. This system features zero-config integration for asset compilation, secure token-based authentication, an optimized unified "Upsert" shopping cart model, strict database-level inventory validation management, and a complete secure Stripe payment settlement cycle automated via signed cryptographic event webhooks.
+A high-performance, production-ready backend e-commerce RESTful API engine built with **Node.js**, **Express**, and **PostgreSQL**. This system features zero-config integration for asset compilation, secure token-based authentication, an optimized unified "Upsert" shopping cart model, strict database-level inventory validation management, and a complete secure Stripe payment settlement cycle automated via signed cryptographic event webhooks.
 
 ---
 
